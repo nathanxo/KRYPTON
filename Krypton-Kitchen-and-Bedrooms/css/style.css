@@ -20,7 +20,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-	background:url(../images/04.jpg) no-repeat 0px 0px;
+	background:url(../images/bg.jpg) no-repeat 0px 0px;
 	background-size:cover;
 }
 /*-- header-left --*/
@@ -114,14 +114,14 @@ ul.nav.navbar-nav {
 	border-left: none;
 }
 .top-nav ul li a:hover{
-    color: #8BC34A !important;
+    color: #AB987A !important;
 }
 .top-nav ul li a.active{
-    color: #8BC34A !important;
+    color: #AB987A !important;
     background: none;
 }
 ul.dropdown-menu {
-    background: #8BC34A;
+    background: #AB987A;
     box-shadow: 0 0 0;
     border: none;
     margin: 0;
@@ -219,8 +219,8 @@ ul.dropdown-menu li{
     border: solid 2px #FFFFFF;
 }
 .w3ls-button a:hover{
-	background: #8BC34A;
-    border: solid 2px #8BC34A;
+	background: #AB987A;
+    border: solid 2px #AB987A;
 }
 .agileinfo-social-grids{
     margin: 1.2em 0 0 0;
@@ -490,7 +490,7 @@ ul.dropdown-menu li{
 }
 .ab-w3-agile-info-text h2,.w3-agile-heading h3,.wthree-heading h2 {
 	font-size: 3em;
-    color: #8BC34A;
+    color: #AB987A;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 12px;
@@ -515,19 +515,19 @@ p.sub-text.one {
     line-height: 2em;
 }
 .ab-w3-agile-part {
-    background: #ff9800;
+    background: #312515;
     padding: 4em 3em;
 }
 .ab-w3-agile-part h4 {
     font-size: 1.2em;
-    color: #000;
+    color: #FFF;
     letter-spacing: 2px;
     margin: 0;
     font-weight: 800;
     text-transform: uppercase;
 }
 .ab-w3-agile-part:nth-child(2) {
-	background: #2196F3;
+	background: #4f3d26;
 }
 .ab-w3-agile-inner {
     margin-top: 5em;
@@ -558,7 +558,7 @@ p.sub-text.one {
     -ms-transition: 0.5s all;
 }
 .w3ls-services-left-top i.fa{
-    color: #8BC34A;
+    color: #AB987A;
     font-size: 1.5em;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -686,7 +686,7 @@ p.sub-text.one {
 	text-decoration:none;
 }
 .services-info-w3-agileits h5 a:hover{
-	color: #8BC34A;
+	color: #AB987A;
 }
 .services-info-w3-agileits h6 {
     font-size: 0.9em;
@@ -694,7 +694,7 @@ p.sub-text.one {
     margin: 1em 0 0 0;
 }
 .services-info-w3-agileits h6 a {
-    color: #8BC34A;
+    color: #AB987A;
 	text-decoration:none;
 }
 .services-info-w3-agileits h6 a:hover{
@@ -2216,7 +2216,7 @@ h2.typoh2{
 		background-color: #fff;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-		background-color: #8BC34A;
+		background-color: #25120d;
 	}
 	.header {
 		padding: 2em 0;
