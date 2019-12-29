@@ -817,7 +817,7 @@ button.btn1:hover i.fa.fa-paper-plane-o{
 }
 .agileinfo_footer_grid h3:after{
     content: '';
-    background: #8BC34A;
+    background: #AB987A;
     width: 15%;
     height: 2px;
     position: absolute;
